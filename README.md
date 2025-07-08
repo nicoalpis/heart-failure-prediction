@@ -167,7 +167,7 @@ To stop and remove all Docker Compose services, networks, and volumes:
 docker-compose down -v
 ```
 
-To stop Prefect Orion and Agent, go to their respective terminals and press `Ctrl+C`.
+To stop MLflow and Prefect Server, go to their respective terminals and press `Ctrl+C`.
 
 ## 🧑‍💻 Project Structure
 
