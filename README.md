@@ -1,4 +1,4 @@
-# heart-failure-prediction
+# MLOPS ZoomCamp 2025 - Heart Failure Prediction
 
 The objective of this project is to build a machine learning model that can predict the likelihood of a patient having heart disease based on various medical attributes. Early prediction of heart disease can aid in timely diagnosis and intervention, potentially improving patient outcomes and healthcare planning. This is a binary classification problem, where the model will predict whether an individual has heart disease (1) or not (0).
 
