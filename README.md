@@ -80,7 +80,7 @@ mlflow ui --host 0.0.0.0 --port 5000
   * Keep this terminal running.
   * You can access the MLflow UI at `http://127.0.0.1:5000`.
 
-### 5. Start Prefect Orion Server & Agent
+### 5. Start Prefect Server
 
 Prefect orchestrates the training pipeline.
 
