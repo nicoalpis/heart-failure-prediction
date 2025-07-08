@@ -1,0 +1,60 @@
+version: '3.8'
+
+services:
+  # FastAPI Application Service
+  fastapi-app:
+    build:
+      context: . # Build from the current directory where Dockerfile is located
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount the host's project directory into the container
+      # This ensures MLflow can find local artifacts at the exact path
+      - "/workspaces/heart-failure-prediction:/workspaces/heart-failure-prediction" ON HOST
+    environment:
+      # Ensure MLFLOW_TRACKING_URI points to the host's MLflow UI, using the Docker bridge IP
+      - MLFLOW_TRACKING_URI=http://172.17.0.1:5000 # ADJUST PORT IF YOUR MLFLOW UI IS ON 5001
+    networks:
+      - app-network
+
+  # Prometheus Service
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml # Mount Prometheus configuration
+      - prometheus_data:/prometheus # Persistent storage for Prometheus data
+    ports:
+      - "9090:9090" # Prometheus UI
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+    networks:
+      - app-network
+
+  # Grafana Service
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    volumes:
+      - grafana_data:/var/lib/grafana # Persistent storage for Grafana data
+    ports:
+      - "3000:3000" # Grafana UI
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin # Change this in production!
+    networks:
+      - app-network
+    depends_on:
+      - prometheus # Ensure Prometheus starts before Grafana
+
+# Define Docker networks
+networks:
+  app-network:
+    driver: bridge
+
+# Define Docker volumes for persistent data
+volumes:
+  prometheus_data:
+  grafana_data:
