@@ -201,5 +201,8 @@ To stop MLflow and Prefect Server, go to their respective terminals and press `C
 
 -----
 
-```
-```
+## Note
+This project is a final assignment for the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) organized by **DataTalksClub** (site: https://datatalks.club/) and taught by **Alexey Grigorev**.
+
+## Contact
+For any questions or clarifications, please contact Nicolás Álvarez at [nicoalpis@gmail.com](mailto:nicoalpis@gmail.com).
