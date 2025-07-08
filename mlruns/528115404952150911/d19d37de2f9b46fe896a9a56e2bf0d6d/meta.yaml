@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/d19d37de2f9b46fe896a9a56e2bf0d6d/artifacts
+end_time: 1751986100295
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: d19d37de2f9b46fe896a9a56e2bf0d6d
+run_name: sincere-sheep-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986100212
+status: 3
+tags: []
+user_id: codespace

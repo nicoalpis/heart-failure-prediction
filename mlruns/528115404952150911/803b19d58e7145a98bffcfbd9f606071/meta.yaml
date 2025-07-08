@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/803b19d58e7145a98bffcfbd9f606071/artifacts
+end_time: 1751986100024
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 803b19d58e7145a98bffcfbd9f606071
+run_name: exultant-goose-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986099963
+status: 3
+tags: []
+user_id: codespace

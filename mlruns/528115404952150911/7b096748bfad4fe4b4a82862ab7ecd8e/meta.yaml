@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/7b096748bfad4fe4b4a82862ab7ecd8e/artifacts
+end_time: 1751986100513
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 7b096748bfad4fe4b4a82862ab7ecd8e
+run_name: enchanting-quail-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986100457
+status: 3
+tags: []
+user_id: codespace

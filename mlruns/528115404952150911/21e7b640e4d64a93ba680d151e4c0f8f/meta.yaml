@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/21e7b640e4d64a93ba680d151e4c0f8f/artifacts
+end_time: 1751986100453
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 21e7b640e4d64a93ba680d151e4c0f8f
+run_name: marvelous-snipe-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986100373
+status: 3
+tags: []
+user_id: codespace

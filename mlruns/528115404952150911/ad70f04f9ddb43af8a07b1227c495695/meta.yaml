@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/ad70f04f9ddb43af8a07b1227c495695/artifacts
+end_time: 1751986100145
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: ad70f04f9ddb43af8a07b1227c495695
+run_name: sincere-asp-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986100093
+status: 3
+tags: []
+user_id: codespace

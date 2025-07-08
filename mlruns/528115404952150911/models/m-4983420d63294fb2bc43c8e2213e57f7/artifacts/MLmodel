@@ -1,0 +1,22 @@
+artifact_path: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/models/m-4983420d63294fb2bc43c8e2213e57f7/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.1
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.core.Booster
+    model_format: xgb
+    xgb_version: 3.0.2
+mlflow_version: 3.1.2
+model_id: m-4983420d63294fb2bc43c8e2213e57f7
+model_size_bytes: 48278
+model_uuid: m-4983420d63294fb2bc43c8e2213e57f7
+prompts: null
+run_id: 0ec21d6b25114e08909e0016fd357b35
+utc_time_created: '2025-07-08 14:48:20.617098'

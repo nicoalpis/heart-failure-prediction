@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/89fc97b3face4943b0b634dcb12d3468/artifacts
+end_time: 1751986100208
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 89fc97b3face4943b0b634dcb12d3468
+run_name: legendary-yak-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986100150
+status: 3
+tags: []
+user_id: codespace

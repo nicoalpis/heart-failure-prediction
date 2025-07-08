@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/models/m-4983420d63294fb2bc43c8e2213e57f7/artifacts
+creation_timestamp: 1751986100606
+experiment_id: '528115404952150911'
+last_updated_timestamp: 1751986103852
+model_id: m-4983420d63294fb2bc43c8e2213e57f7
+model_type: null
+name: final_xgboost_model
+source_run_id: 0ec21d6b25114e08909e0016fd357b35
+status: 2
+status_message: null

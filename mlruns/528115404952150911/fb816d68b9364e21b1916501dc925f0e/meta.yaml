@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/fb816d68b9364e21b1916501dc925f0e/artifacts
+end_time: 1751986100368
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: fb816d68b9364e21b1916501dc925f0e
+run_name: angry-dove-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986100299
+status: 3
+tags: []
+user_id: codespace
