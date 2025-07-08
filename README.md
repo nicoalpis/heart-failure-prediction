@@ -43,11 +43,6 @@ Before you begin, ensure you have the following installed:
 * **Python 3.12.1** (or compatible version): The project was developed with this version.
 * **pip:** Python package installer.
 * **Docker Desktop (or Docker Engine on Linux):** For containerization and running services.
-* **Poetry (Recommended for dependency management):**
-    ```bash
-    pip install poetry
-    ```
-    *(Alternatively, you can just use `pip install -r requirements.txt`)*
 
 ### 1. Clone the Repository
 
