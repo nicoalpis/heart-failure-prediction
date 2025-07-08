@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/18db5d9239364d8fb270104283aaa73a/artifacts
+end_time: 1751986735732
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 18db5d9239364d8fb270104283aaa73a
+run_name: nebulous-stag-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986735650
+status: 3
+tags: []
+user_id: codespace

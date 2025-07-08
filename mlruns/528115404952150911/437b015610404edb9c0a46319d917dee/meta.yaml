@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/437b015610404edb9c0a46319d917dee/artifacts
+end_time: 1751986736136
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 437b015610404edb9c0a46319d917dee
+run_name: flawless-zebra-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986736076
+status: 3
+tags: []
+user_id: codespace

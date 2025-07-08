@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/f6e7c237951f43d7a5a2352b4e7d178e/artifacts
+end_time: 1751986604435
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: f6e7c237951f43d7a5a2352b4e7d178e
+run_name: learned-tern-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986604340
+status: 3
+tags: []
+user_id: codespace

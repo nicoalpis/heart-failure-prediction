@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/d22e09f4952c458a8cf1e60dda8da1f1/artifacts
+end_time: 1751986604028
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: d22e09f4952c458a8cf1e60dda8da1f1
+run_name: exultant-bird-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986603941
+status: 3
+tags: []
+user_id: codespace

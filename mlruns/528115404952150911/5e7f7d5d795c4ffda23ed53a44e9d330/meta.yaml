@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/5e7f7d5d795c4ffda23ed53a44e9d330/artifacts
+end_time: 1751986604290
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 5e7f7d5d795c4ffda23ed53a44e9d330
+run_name: crawling-flea-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986604214
+status: 3
+tags: []
+user_id: codespace

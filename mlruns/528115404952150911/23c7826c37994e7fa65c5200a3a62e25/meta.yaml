@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/23c7826c37994e7fa65c5200a3a62e25/artifacts
+end_time: 1751986736254
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 23c7826c37994e7fa65c5200a3a62e25
+run_name: likeable-sloth-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986736186
+status: 3
+tags: []
+user_id: codespace

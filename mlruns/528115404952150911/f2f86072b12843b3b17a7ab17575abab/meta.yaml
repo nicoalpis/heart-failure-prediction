@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/f2f86072b12843b3b17a7ab17575abab/artifacts
+end_time: 1751986739694
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: f2f86072b12843b3b17a7ab17575abab
+run_name: Final_Best_XGBoost_Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986736652
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/82c97dc024824deba4ad3e13618423a9/artifacts
+end_time: 1751986736015
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 82c97dc024824deba4ad3e13618423a9
+run_name: skittish-turtle-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986735937
+status: 3
+tags: []
+user_id: codespace

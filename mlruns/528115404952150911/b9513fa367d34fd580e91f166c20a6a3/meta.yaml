@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/b9513fa367d34fd580e91f166c20a6a3/artifacts
+end_time: 1751986735859
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: b9513fa367d34fd580e91f166c20a6a3
+run_name: clumsy-skink-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986735785
+status: 3
+tags: []
+user_id: codespace

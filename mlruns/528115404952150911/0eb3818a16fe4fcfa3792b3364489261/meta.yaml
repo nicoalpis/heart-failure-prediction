@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/0eb3818a16fe4fcfa3792b3364489261/artifacts
+end_time: 1751986736375
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 0eb3818a16fe4fcfa3792b3364489261
+run_name: puzzled-shrike-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986736303
+status: 3
+tags: []
+user_id: codespace

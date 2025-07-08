@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/974b2d35afdc404783015e8b0cb1fe07/artifacts
+end_time: 1751986604574
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 974b2d35afdc404783015e8b0cb1fe07
+run_name: respected-grouse-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986604506
+status: 3
+tags: []
+user_id: codespace

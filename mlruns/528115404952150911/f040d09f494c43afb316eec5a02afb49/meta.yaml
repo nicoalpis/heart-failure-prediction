@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/f040d09f494c43afb316eec5a02afb49/artifacts
+end_time: 1751986604829
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: f040d09f494c43afb316eec5a02afb49
+run_name: sedate-rat-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986604759
+status: 3
+tags: []
+user_id: codespace

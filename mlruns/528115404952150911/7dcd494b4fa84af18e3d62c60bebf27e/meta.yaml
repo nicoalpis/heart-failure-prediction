@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/7dcd494b4fa84af18e3d62c60bebf27e/artifacts
+end_time: 1751986735601
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 7dcd494b4fa84af18e3d62c60bebf27e
+run_name: upset-ant-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986735534
+status: 3
+tags: []
+user_id: codespace

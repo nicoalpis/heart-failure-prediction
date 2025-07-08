@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9c2e00f646c74f46affe4500f7907adc/artifacts
+end_time: 1751986603890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c2e00f646c74f46affe4500f7907adc
+run_name: orderly-bear-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986603815
+status: 3
+tags: []
+user_id: codespace

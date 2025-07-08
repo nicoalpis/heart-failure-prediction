@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/31309d0a17f84e5ab5c6e72b18b0f94d/artifacts
+end_time: 1751986604149
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: 31309d0a17f84e5ab5c6e72b18b0f94d
+run_name: legendary-lynx-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986604080
+status: 3
+tags: []
+user_id: codespace

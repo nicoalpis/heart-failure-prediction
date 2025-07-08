@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/heart-failure-prediction/mlruns/528115404952150911/af12d056fdc04e209d628518892bf25f/artifacts
+end_time: 1751986604939
+entry_point_name: ''
+experiment_id: '528115404952150911'
+lifecycle_stage: active
+run_id: af12d056fdc04e209d628518892bf25f
+run_name: delicate-goose-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751986604877
+status: 3
+tags: []
+user_id: codespace
